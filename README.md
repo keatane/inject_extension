@@ -1,2 +1,2 @@
 # inject_extension
-Example of inject browser extension
+Example of browser extension for injecting and executing JS code
